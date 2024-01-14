@@ -1,0 +1,15 @@
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.csproj.AssemblyReference.cache
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.AssemblyInfoInputs.cache
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.AssemblyInfo.cs
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.csproj.CoreCompileInputs.cache
+/Users/macos/Desktop/Operator/Retangle/bin/Debug/net7.0/Retangle
+/Users/macos/Desktop/Operator/Retangle/bin/Debug/net7.0/Retangle.deps.json
+/Users/macos/Desktop/Operator/Retangle/bin/Debug/net7.0/Retangle.runtimeconfig.json
+/Users/macos/Desktop/Operator/Retangle/bin/Debug/net7.0/Retangle.dll
+/Users/macos/Desktop/Operator/Retangle/bin/Debug/net7.0/Retangle.pdb
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.dll
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/refint/Retangle.dll
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.pdb
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/Retangle.genruntimeconfig.cache
+/Users/macos/Desktop/Operator/Retangle/obj/Debug/net7.0/ref/Retangle.dll
